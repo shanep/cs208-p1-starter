@@ -117,7 +117,7 @@ update in the browser make sure your live preview is running.
 
 For each project you will be given a set of tests that you should run to check
 your work. Passing all the instructor provided tests **DOES NOT** guarantee that
-you will get an A+ only that your project meets the absolute bare minimum of
+you will get an A+, only that your project meets the absolute bare minimum of
 what is expected. You will need to supplement the tests with your own testing to
 ensure your programs are correct. With that said, lets write our own tests. Open
 up the file **test-student.js** and add in the code shown below. Then open up
@@ -164,7 +164,7 @@ ok 2 - /Users/shane/repos/fullstack-p1-starter/test/test.js
 
 We are going to make a few small modifications to the starter code and then make
 sure we can use the built in debugger for VSCode! Generally speaking it doesn't
-make much sense to single step through your HTML or CSS code, but any Javascript
+make much sense to single step through your HTML or CSS code, but Javascript
 code can be debugged just like any other programming language.
 
 * First, modify the loaded function as shown below.
