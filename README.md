@@ -7,13 +7,13 @@ first half of the semester. This project is all set up to make it easy to write
 and debug HTML, CSS, and Javascript. In this project you will be installing all
 the required tools and testing your setup with a small website.
 
-I have provided a [Video Walkthrough](https://youtub.com) to help you have a
+I have provided a **Video Walkthrough**(Linked Below) to help you have a
 deeper understanding of the material. Please take the time to watch it as it
 will likely answer all your questions.
 
 ## Project links
 
-* [Project Walkthrough (Video)](https://youtub.com)
+* [Project Walkthrough (Video)](https://youtu.be/FFYff4hiqWs)
 * [Cloning a Project (Video)](https://www.youtube.com/watch?v=fiPsHGi3Z_s)
 * [Grading Rubric](https://shanepanter.com/cs208/grading-rubric.html)
 
