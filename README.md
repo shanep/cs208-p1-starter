@@ -13,10 +13,11 @@ will likely answer all your questions.
 
 ## Project links
 
-* [Video Walkthrough](https://youtub.com)
+* [Project Walkthrough (Video)](https://youtub.com)
+* [Cloning a Project (Video)](https://www.youtube.com/watch?v=fiPsHGi3Z_s)
 * [Grading Rubric](https://shanepanter.com/cs208/grading-rubric.html)
 
-## Task 1 - Install dev tools
+## Task 0 - Install dev tools
 
 Before we can start developing applications we need to make sure we have a fully
 functional developer environment. We will be using VSCode as our editor, Google
@@ -29,6 +30,16 @@ passes 😃.
 * Install [NodeJS](https://nodejs.org/en/download)
 * **Reboot your computer**! Don't skip this step!
 * Read about [terminal basics](https://code.visualstudio.com/docs/terminal/basics)
+
+## Task 1 - Clone this repository
+
+If you are reading this on Github then the first step is to clone this
+repository to your local computer so you can start working on the assignment!
+You can read the [offical docuemntation](https://code.visualstudio.com/docs/sourcecontrol/github#_cloning-a-repository)
+on how to clone a repository. Additionally, I have created a [Video
+Walkthrough](https://www.youtube.com/watch?v=fiPsHGi3Z_s) showing the process.
+
+Once you have the repository cloned you can move on to the next task.
 
 ## Task 2 - Run the Website
 
