@@ -13,7 +13,7 @@ will likely answer all your questions.
 
 ## Project links
 
-* [Project Walkthrough (Video)](https://youtu.be/FFYff4hiqWs)
+* [Project Walkthrough (Video)](https://youtu.be/RgsHU7tjzBo)
 * [Cloning a Project (Video)](https://www.youtube.com/watch?v=fiPsHGi3Z_s)
 * [Grading Rubric](https://shanepanter.com/cs208/grading-rubric.html)
 
