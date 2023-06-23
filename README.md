@@ -210,23 +210,9 @@ using JSDoc. Write documentation for the loaded function in the main.js file.
 
 ## Task 7 - Complete the Retrospective
 
-Once you have completed all the tasks open the file **Retrospective.md** and
-complete each section that has a TODO label.
-
-For the **Experience** section you need to detail your experience with this lab.
-
-* Were there any things that you struggled with?
-* Were there any parts of this lab that were unclear or poorly specified?
-* Were you able to get the entire project done?
-
-For the **Known issues or Bugs** section you need to detail any issues or bugs
-that you have in your code. For example maybe your code crashes randomly and you
-couldn't figure out why. If your code doesn't have any issues you can simply
-write NONE in this section.
-
-For the **Sources used** section you must detail any sources you used outside of
-the textbook or course website. If you write NONE in this section it is assumed
-that you didn't use google at all. Be safe CITE!
+Once you have completed all the tasks open the file Retrospective.md and complete
+each section that has a TODO label. Reference the grading rubric for details on how
+this will be graded.
 
 ## Task 8 - Add, Commit, Push your code
 
