@@ -35,7 +35,7 @@ passes 😃.
 
 If you are reading this on Github then the first step is to clone this
 repository to your local computer so you can start working on the assignment!
-You can read the [offical docuemntation](https://code.visualstudio.com/docs/sourcecontrol/github#_cloning-a-repository)
+You can read the [offical documentation](https://code.visualstudio.com/docs/sourcecontrol/github#_cloning-a-repository)
 on how to clone a repository. Additionally, I have created a [Video
 Walkthrough](https://www.youtube.com/watch?v=fiPsHGi3Z_s) showing the process.
 
