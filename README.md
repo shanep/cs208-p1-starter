@@ -15,7 +15,6 @@ will likely answer all your questions.
 
 * [Project Walkthrough (Video)](https://youtu.be/RgsHU7tjzBo)
 * [Cloning a Project (Video)](https://www.youtube.com/watch?v=fiPsHGi3Z_s)
-* [Grading Rubric](https://shanepanter.com/teaching/universal-grading-rubric.html)
 
 ## Task 0 - Install dev tools
 
